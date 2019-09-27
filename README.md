@@ -1,2 +1,2 @@
 # mal-documentation
-Documentation of MAL
+Documentation of MAL is found in the Wiki of this repository.
